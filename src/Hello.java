@@ -1,7 +1,8 @@
-//¼Ò½ºÆÄÀÏÀÇ ÀÌ¸§°ú Å¬·¡½ºÀÇ ÀÌ¸§Àº °°¾Æ¾ßÇÑ´Ù!
+//ì†ŒìŠ¤íŒŒì¼ì˜ ì´ë¦„ê³¼ í´ë˜ìŠ¤ì˜ ì´ë¦„ì€ ê°™ì•„ì•¼í•œë‹¤!
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("¤»¤»¤»¤»¤»¤»¤»");
-		System.out.println("±êÇãºê °³Â¾´Ù ");
+		System.out.println("ã…‹ã…‹ã…‹ã…‹ã…‹ã…‹ã…‹");
+		System.out.println("ê¹ƒí—ˆë¸Œ ê°œì©ë‹¤ ");
 	}
 }
+// full test
